@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div>
-      <logo />
+      <logo></logo>
       <h1 class="title">
         ci-eslint
       </h1>
